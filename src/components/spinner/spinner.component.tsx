@@ -1,4 +1,4 @@
-import { SpinnerOverlay, SpinnerContainer } from './spinner.styles.js';
+import { SpinnerOverlay, SpinnerContainer } from './spinner.styles';
 
 const Spinner = () => (
   <SpinnerOverlay>
