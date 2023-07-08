@@ -8,8 +8,6 @@ import App from './App';
 import { store, persistor } from './store/store';
 import * as serviceWorkerRegisteration from "./serviceWorkerRegistration";
 
-import './index.scss';
-
 const rootElement = document.getElementById('root');
 
 render(
